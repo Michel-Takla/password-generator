@@ -14,3 +14,7 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 
 
+// at least 8 characters and no more than 128 characters
+// lowercase
+//uppercase
+// numbers and speacial characters
