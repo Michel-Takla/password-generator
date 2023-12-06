@@ -18,3 +18,7 @@ generateBtn.addEventListener("click", writePassword);
 // lowercase
 // uppercase
 // numbers and speacial characters
+
+
+const lowerCase = "qlwoskdnmerthjfn"
+const upperCase = "ABNCDEFGHIGKLSMNO"
