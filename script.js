@@ -2,9 +2,9 @@
 // 2- lower case 
 // 3- numbers
 // 4- special characters
-// 5- the user choice
 // 6- the input for the password
 // 7- generate the password using loop x count
+// 8- get prompt-- the user choice
 // 8- final, showing the password to the page
 
 let upperCase = "ABCDEFGHIJKLMNOPQRSTUVUXYZ";
